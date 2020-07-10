@@ -43,3 +43,4 @@ ax.yaxis.set_major_formatter(ticker.FuncFormatter(lambda y, _: '{:g}'.format(y))
 plt.legend(country_list, loc=0)
 plt.show()
 plt.savefig('covid_cases_per_million.png')
+#change
