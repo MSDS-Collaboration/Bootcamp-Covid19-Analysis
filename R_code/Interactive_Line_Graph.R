@@ -1,4 +1,4 @@
-# Line Plot Imitation in R 
+# Interactive Line Plot in R 
 
 rm(list=ls())
 getwd()
